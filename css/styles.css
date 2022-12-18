@@ -14,12 +14,6 @@ a {
    }
 
 
-/* .tituloMain1{
-    color:#2C3333;
-    margin-top: 20px;
-    margin-bottom:20px; 
-} */
-
 
 /* .container1 {
     display: flex;
@@ -75,9 +69,9 @@ a {
 
 .button {
     background-color: white;
-    border: none; 
+    border: none;
     box-sizing: border-box;
-    color: gray; 
+    color: gray;
     cursor: pointer;
     display: flex;
     font-family:inherit;
@@ -98,7 +92,7 @@ a {
     vertical-align: middle;
     visibility: visible;
    }
-  
+
 .button:hover {
     background-color: whitesmoke;
     transform: translateZ(0);
@@ -122,3 +116,14 @@ a {
 .footerContact{
     list-style: none;
 }
+
+.bgColor{
+    background-color: #E6E2C3;
+}
+
+.tituloMain1{
+     margin-top: 20px;
+    margin-bottom:20px; 
+ }
+ 
+
