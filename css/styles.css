@@ -38,26 +38,9 @@ header {
     background: #333;
 }
 
-.navStyle { 
-    display: flex;
-    justify-content: space-between;
-    padding: 1em;
-    font-family: Verdana, Geneva, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+.navbar-nav{
+    
 }
-
-   nav li a {
-    color: white;
-    display: block;
-    text-decoration: none;
-    padding: .5em 1em;
-  }
-  nav li a:hover {
-    background: tomato;
-    color: white;
-  }
-
 
 .footerContact {
     color: #354f52;
