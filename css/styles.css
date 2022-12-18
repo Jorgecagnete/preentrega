@@ -1,8 +1,3 @@
-*{
-    margin: 2px;
-    padding: 0;
-    }
-
 html {
     font-family: 'Roboto', sans-serif;
 }
@@ -18,40 +13,21 @@ a {
     list-style: none;
    }
 
-.ulStyle{
-    display: flex;
-    gap: 20px;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    background: #333;
-}
 
-.tituloMain1{
+/* .tituloMain1{
     color:#2C3333;
     margin-top: 20px;
     margin-bottom:20px; 
-}
-
-.insTitucionales{
-    display: flex;
-    flex-direction: row; 
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-}
-.footerContact {
-    color: #354f52;
-    text-decoration: underline;
-}
+} */
 
 
-.container1 {
+/* .container1 {
     display: flex;
     flex-flow: row wrap;
     justify-content: flex center;
     justify-content: space-around;
     align-items: stretch;
-}
+} */
 
 /* .imageStyle {
     width: 320px;
@@ -134,4 +110,15 @@ a {
  text-align:match-parent;
  display: flex;
  flex-direction: column;
+}
+
+.bg-lightgreen{
+    background-color:#88A47C}
+
+.c-blanco{
+    color: white;
+}
+
+.footerContact{
+    list-style: none;
 }
