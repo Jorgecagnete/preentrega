@@ -2,7 +2,7 @@ html {
     font-family: 'Roboto', sans-serif;
 }
 
-ul
+/* ul
 ol {
 text-decoration: none;
     list-style: none;
@@ -11,7 +11,7 @@ text-decoration: none;
 a {
     text-decoration: none;
     list-style: none;
-   }
+   } */
 
 
 
@@ -79,32 +79,32 @@ a {
     font-weight: 400;
     /* height:129px; */
     line-height: 21.45px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     position:relative ;
     text-align:center;
     text-decoration-color: rgb(85, 85, 85);
     text-decoration-line: none;
     text-decoration-style: solid;
     text-size-adjust: 100%;
-    transform:matrix(1, 0, 0, 1, 0, 0);
-    transition-duration: 0.3s;
-    transition-property: transform;
-    vertical-align: middle;
-    visibility: visible;
+   
    }
 
-.button:hover {
-    background-color: whitesmoke;
-    transform: translateZ(0);
-    box-shadow: rgb(0, 0, 0/ 0%);
-    }
+.buttonSt:hover {
+    background-color: gray;
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:none;
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+        }
 
-.buttonSt{
+/* .buttonSt{
  margin-top: 0.25em;
  text-align:match-parent;
  display: flex;
  flex-direction: column;
-}
+} */
 
 .bg-lightgreen{
     background-color:#88A47C}
